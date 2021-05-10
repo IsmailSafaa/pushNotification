@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488421461377",
+    "project_id": "pushass",
+    "storage_bucket": "pushass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488421461377:android:7555625f9ad52154dfec80",
+        "android_client_info": {
+          "package_name": "com.example.pushass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488421461377-nhogeru1fgvnnfb5erttgmarbqhdob97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgs42G6J6i7vK9gJb5t75TVtirZ51_rqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488421461377-nhogeru1fgvnnfb5erttgmarbqhdob97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
